@@ -1,4 +1,4 @@
-Descripción del Proyecto
+**Descripción del Proyecto**
 Este repositorio contiene los detalles de la implementación de nuevos servicios para mejorar la plataforma de servicios financieros de Caja Ganso. Estamos agregando funcionalidades clave, incluyendo servicios de Clabe y Transferencia, así como una API móvil para proporcionar una experiencia más fluida y accesible a nuestros usuarios.
 
 Solución Técnica
